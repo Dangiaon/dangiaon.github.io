@@ -1,7 +1,7 @@
 title: yes, i'm document repository! # name of the site
 author: somebody # name of site's author
 email: strings@gmail.com # email of site's author
-url: https://github.com/Dangiaon/dangiaon.github.io # root address of the site
+url: https://riggraz.dev/no-style-please # root address of the site
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
