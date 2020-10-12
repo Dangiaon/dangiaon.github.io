@@ -20,8 +20,8 @@ entries:
   - title: articles
     url: false
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
-        url: false
+      - title: create your website on GitHub Pages
+        url: https://drive.google.com/file/d/1YIQO2tvF1Hk9ksA1p-xIxxH0-GJ13SQq/view
 
   - title: rss
     url: feed.xml
