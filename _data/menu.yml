@@ -17,6 +17,12 @@ entries:
     url: false
     entries: false
 
+  - title: articles
+    url: false
+    entries:
+      - title: to edit this menu, edit _data/menu.yml file
+        url: false
+
   - title: rss
     url: feed.xml
   
@@ -30,6 +36,7 @@ entries:
             url: false
           - title: example page
             url: about
+
   - title: PRO TIP
     url: false
     entries:
